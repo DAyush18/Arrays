@@ -1,35 +1,42 @@
-Graph DSA Questions Repository
+Arrays DSA Questions Repository
 
-Welcome to the Graph Data Structures and Algorithms (DSA) Questions repository! This project contains a collection of graph-related problems, algorithms, and data structure implementations commonly used in coding interviews and competitive programming. It aims to provide a variety of graph problems with detailed solutions to help users master graph-related topics.
-Table of Contents
+Welcome to the Arrays Data Structures and Algorithms (DSA) Questions repository! This project is a collection of various array-related problems, algorithms, and data structure implementations that are frequently encountered in coding interviews, competitive programming, and algorithmic challenges.
 
-    About
-    Questions & Solutions
-    Algorithms Implemented
-    How to Use
-    Contributing
-    License
-
-About
-
-Graph Data Structures and Algorithms (DSA) are fundamental in computer science and are used in many real-world applications, such as networking, route planning, recommendation systems, and more. This repository includes both simple and complex graph-related problems that cover the core concepts of graph theory and its applications in solving algorithmic challenges.
-
-The problems and solutions span from basic graph traversal to more advanced topics, including shortest path algorithms, spanning trees, cycle detection, and more.
+The repository aims to help you build a solid understanding of arrays, covering basic and advanced problems and solutions.
 Questions & Solutions
 
-The repository includes a wide range of graph-related problems, such as:
+The repository covers the following types of array-related problems:
 
-    Graph Representation (Adjacency Matrix, Adjacency List)
-    Depth-First Search (DFS)
-    Breadth-First Search (BFS)
-    Shortest Path Algorithms (Dijkstra, Bellman-Ford)
-    Minimum Spanning Tree Algorithms (Kruskal, Prim)
-    Cycle Detection (in directed and undirected graphs)
-    Topological Sorting
-    Strongly Connected Components (SCC)
-    Graph Coloring
-    Bipartite Graph Check
-    Detecting Bridges and Articulation Points
-    Eulerian and Hamiltonian Path/Circuit
+    Basic Array Operations (Insertion, Deletion, Searching)
+    Sorting Algorithms (Bubble Sort, Merge Sort, Quick Sort, etc.)
+    Searching Algorithms (Binary Search, Linear Search)
+    Array Manipulation (Reversing, Rotating, Merging)
+    Finding Missing Elements (Duplicates, Single Element, etc.)
+    Sliding Window Problems
+    Prefix and Suffix Sum Problems
+    Dynamic Programming (e.g., Maximum Subarray Sum, Subset Sum)
+    Two Pointers Technique
+    Rearranging Elements
+    Finding the Kth Largest/Smallest Element
+    Matrix-related Problems (Spiral Traversal, Diagonal Sums, etc.)
 
-Each question has an implementation and explanation to help you understand the logic and approach behind solving the problem.
+Each problem in this repository has a detailed explanation of the approach, followed by the implemented solution in Python (or other languages where applicable).
+Algorithms Implemented
+
+This repository includes implementations of the following algorithms commonly applied to arrays:
+
+    Sorting Algorithms:
+        Bubble Sort
+        Merge Sort
+        Quick Sort
+        Selection Sort
+        Insertion Sort
+    Searching Algorithms:
+        Binary Search
+        Linear Search
+    Sliding Window Algorithms: Solving problems like maximum sum subarray of fixed size, longest substring without repeating characters.
+    Prefix and Suffix Sum: Useful for problems involving range queries, such as finding subarray sums.
+    Dynamic Programming on Arrays: Solving problems like Maximum Subarray Sum (Kadane's Algorithm), Coin Change Problem, and Longest Increasing Subsequence.
+    Two Pointers Technique: Solving problems like finding pairs that sum to a specific value or reversing a subarray in place.
+    Rearranging Array Elements: Algorithms like Dutch National Flag Problem and sorting elements by their value.
+    Matrix-related Problems: Handling 2D arrays with algorithms like spiral order traversal and finding the sum of diagonals.
